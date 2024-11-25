@@ -1,0 +1,71 @@
+Câu 1: Trong lĩnh vực nào AI được sử dụng phổ biến nhất?
+A. Ngành y tế
+B. Ngành sản xuất
+C. Ngành nông nghiệp
+D. Ngành dịch vụ
+
+Đáp án: A
+
+Câu 2: Machine learning là phần nào của AI?
+A. Phần cứng
+B. Phần mềm
+C. Cả hai
+D. Không phải là phần nào
+
+Đáp án: B
+
+Câu 3: Deep learning dựa trên mô hình gì để học?
+A. Mô hình thống kê
+B. Mô hình tuyến tính
+C. Mạng neural
+D. Mô hình logic
+
+Đáp án: C
+
+Câu 4: Mục đích chính của học máy là gì?
+A. Lập trình máy tính để thực hiện các nhiệm vụ cụ thể
+B. Huấn luyện máy tính để tự học từ dữ liệu
+C. Tạo ra máy tính có trí tuệ nhân tạo
+D. Tối ưu hóa các thuật toán máy học
+
+Đáp án: B
+
+Câu 5: Mạng neural làm gì trong học sâu?
+A. Giảm kích thước dữ liệu
+B. Tăng độ chính xác của mô hình
+C. Tạo ra mô hình dự đoán
+D. Mô phỏng cấu trúc não người
+
+Đáp án: D
+
+Câu 6: Thuật ngữ “overfitting” đề cập đến hiện tượng gì trong machine learning?
+A. Mô hình không phù hợp với dữ liệu huấn luyện
+B. Mô hình phù hợp tốt với dữ liệu huấn luyện nhưng không tổng quát hóa được cho dữ liệu mới
+C. Mô hình không học được từ dữ liệu
+D. Mô hình phù hợp tốt với dữ liệu huấn luyện và tổng quát hóa tốt cho dữ liệu mới
+
+Đáp án: B
+
+Câu 7: ”Bias” trong machine learning là gì?
+A. Sai số giữa dự đoán và giá trị thực tế
+B. Sự phức tạp của mô hình
+C. Tính tổng quát hóa của mô hình
+D. Sự khác biệt giữa dữ liệu huấn luyện và dữ liệu kiểm tra
+
+Đáp án: A
+
+Câu 8: Phương pháp “dropout” trong học sâu là gì?
+A. Kỹ thuật giảm overfitting bằng cách loại bỏ ngẫu nhiên một số lượng các neuron trong mạng neural trong quá trình huấn luyện
+B. Kỹ thuật giảm kích thước của mạng neural
+C. Kỹ thuật tăng khả năng học từ dữ liệu mới
+D. Kỹ thuật tăng kích thước mạng neural
+
+Đáp án: A
+
+Câu 9: Trong deep learning, “activation function” là gì?
+A. Hàm được sử dụng để biến đổi đầu vào của một neural network thành đầu ra
+B. Hàm để tính toán gradient
+C. Hàm để giảm overfitting
+D. Hàm để tối ưu hóa trọng số của mạng neural
+
+Đáp án: A
