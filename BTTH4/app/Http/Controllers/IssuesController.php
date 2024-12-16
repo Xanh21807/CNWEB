@@ -84,9 +84,11 @@ class IssuesController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Issues $issue)
+    public function destroy($id)
     {
-        $issue->delete();
-        return redirect()->route('issues.index')->with('success', 'Vấn đề đã được xóa.');
+        $thesis = Thesis::findOrFail($id);
+        $thesis->delete();
+
+        return redirect()->route('theses.index')->with('success', 'Đồ án đã được xóa thành công!');
     }
 }
