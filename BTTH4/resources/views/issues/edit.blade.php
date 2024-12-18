@@ -37,7 +37,10 @@
         <label for="reported_date" class="form-label">Thời gian báo cáo</label>
         <input type="datetime-local" class="form-control" id="reported_date" name="reported_date" value="{{ $issues->reported_date }}" required>
     </div>
-
+    <div class="mb-3">
+        <label for="description" class="form-label">Mô tả vấn đề</label>
+        <textarea class="form-control" id="description" name="description" rows="3" required></textarea>
+    </div>
     <div class="mb-3">
         <label for="urgency" class="form-label">Mức độ</label>
         <select class="form-control" id="urgency" name="urgency" required>
