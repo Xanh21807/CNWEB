@@ -86,9 +86,9 @@ class IssuesController extends Controller
      */
     public function destroy($id)
     {
-        $thesis = Thesis::findOrFail($id);
-        $thesis->delete();
+        $issues = Issues::findOrFail($id);
+        $issues->delete();
 
-        return redirect()->route('theses.index')->with('success', 'Đồ án đã được xóa thành công!');
+        return redirect()->route('issues.index')->with('success', 'Đồ án đã được xóa thành công!');
     }
 }
